@@ -1,0 +1,14 @@
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\2212398_Lab5.csproj.AssemblyReference.cache
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\2212398_Lab5.csproj.SuggestedBindingRedirects.cache
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\_2212398_Lab5.Form1.resources
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\_2212398_Lab5.Properties.Resources.resources
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\2212398_Lab5.csproj.GenerateResource.cache
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\2212398_Lab5.csproj.CoreCompileInputs.cache
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\bin\Debug\2212398_Lab5.exe.config
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\bin\Debug\2212398_Lab5.exe
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\bin\Debug\2212398_Lab5.pdb
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\bin\Debug\Newtonsoft.Json.dll
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\bin\Debug\Newtonsoft.Json.xml
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\2212398_Lab5.csproj.CopyComplete
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\2212398_Lab5.exe
+E:\nguyen_ly\2212398_Lab5\2212398_Lab5\obj\Debug\2212398_Lab5.pdb
