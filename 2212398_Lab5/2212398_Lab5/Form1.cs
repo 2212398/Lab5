@@ -26,7 +26,7 @@ namespace _2212398_Lab5
             string json = r.ReadToEnd();
 
             var array = (JObject)JsonConvert.DeserializeObject(json);
-            var students = array["sinhvien"].Children();
+            var students = array["sinh vien"].Children();
             foreach (var item in students)
             {
                 string mssv = item["MSSV"].Value<string>();
